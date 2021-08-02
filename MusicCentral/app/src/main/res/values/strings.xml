@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MusicCentral</string>
+    <string-array name="title">
+        <item>Song 1</item>
+        <item>Song 2</item>
+        <item>Song 3</item>
+        <item>Song 4</item>
+        <item>Song 5</item>
+        <item>Song 6</item>
+
+    </string-array>
+    <string-array name="artist">
+        <item>Artist 1</item>
+        <item>Artist 2</item>
+        <item>Artist 3</item>
+        <item>Artist 4</item>
+        <item>Artist 5</item>
+        <item>Artist 6</item>
+
+
+    </string-array>
+    <string-array name="url">
+        <item>https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3</item>
+        <item>https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3</item>
+        <item>https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3</item>
+        <item>https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3</item>
+        <item>https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3</item>
+        <item>https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3</item>
+
+    </string-array>
+</resources>
